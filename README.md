@@ -24,19 +24,10 @@ Where [CatholicMedusa](https://github.com/CatholicMedusa) focuses on **ecosystem
 
 ---
 
-### [WordCount Familiar](https://github.com/SnakeWitch/WordCount-Familiar)  
-📖 **Writing tool side-project**  
-- Word + character counter in Java  
-- Can be adapted for StoryShield / breeder note-keeping  
-- Demonstrates small but useful desktop utilities  
-
----
-
 ## ✨ The Spellbook Vibe  
 - **SnakeWitch** = lightweight “familiars” 🐍 — tools that help but don’t demand setup.  
 - **CatholicMedusa** = full ecosystem 🐍 — bigger systems for breeding, genetics, and monitoring.  
 
-Together, they show **range**: from hobby-grade tools to professional-grade systems.  
 
 ---
 
